@@ -2,7 +2,7 @@
 
 Weekend project to find out which scratch cards are the most and least profitable in the spanish lottery
 
-Scrapes all the scratch card premiums from the spanish lottery website and computes expect return for each game
+Scrapes all the scratch card premiums from the spanish lottery website and computes expected return for each game
 
 ![landing page](img/once_landing_page.png)
 [Landing Page](URL)
